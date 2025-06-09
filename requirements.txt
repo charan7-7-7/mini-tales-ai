@@ -1,0 +1,7 @@
+streamlit
+moviepy
+elevenlabs
+whisper
+torch
+faster-whisper
+tqdm
